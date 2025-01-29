@@ -1,0 +1,23 @@
+{
+  "name": "github-action",
+  "version": "1.0.0",
+  "description": "Practicing Github-action",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azayyad48/github-action.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azayyad48/github-action/issues"
+  },
+  "homepage": "https://github.com/azayyad48/github-action#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
